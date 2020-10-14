@@ -1,0 +1,23 @@
+@import "./header.css";
+@import "./first_section.css";
+@import "./second_section.css";
+@import "./third_section.css";
+@import "./footer.css";
+@import "./global.css";
+
+
+
+button {
+    background-repeat: no-repeat;
+    cursor: pointer;
+    overflow: hidden;
+    outline: none;
+}
+
+
+
+
+
+
+
+
